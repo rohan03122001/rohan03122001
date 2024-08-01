@@ -24,7 +24,7 @@ Real-time collaborative coding platform with voice chat.
 - **Technologies**: Next.js, React, TypeScript, WebRTC
 - **Features**: Real-time code editing, multi-language code execution, integrated voice chat
 
-### [2D RPG Portfolio](https://github.com/rohan03122001/MY-RPG-Portfolio)
+### [2D RPG Portfolio](My-RPG-Porfolio)
 An interactive RPG adventure game developed in Unity.
 - **Technologies**: Unity, C#, WebGL
 - **Features**: Engaging gameplay mechanics, 3D environments, character interactions
