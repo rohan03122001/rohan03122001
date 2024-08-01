@@ -50,5 +50,4 @@ A blog platform built with Next.js.
 
 Feel free to reach out to me at rohanbhujbal2001@gmail.com for any inquiries or collaborations!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohan03122001&show_icons=true&theme=radical)
 
