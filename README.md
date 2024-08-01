@@ -1,6 +1,6 @@
 # Hi there, I'm Rohan Bhujbal 👋
 
-Passionate about crafting robust and efficient backend systems using Go (Golang) and creating engaging web and game experiences. Currently pursuing an M.Sc. in Advanced Computer Science at the University of Birmingham.
+Passionate full-stack developer with a love for Next.js, DevOps, and Golang. Currently pursuing an M.Sc. in Advanced Computer Science at the University of Birmingham.
 
 ## 🚀 About Me
 
