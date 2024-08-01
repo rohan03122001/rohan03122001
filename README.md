@@ -17,9 +17,9 @@ Passionate full-stack developer with a love for Next.js, DevOps, and Golang. Cur
 - **Frameworks & Libraries**: Next.js, React, Node.js, Tailwind CSS, Material UI
 - **Cloud & DevOps**: AWS, Docker, Git
 
-## 📂 Projects
+## 📂 Projectsz
 
-### [DisCoder](https://github.com/rohan03122001/DisCoder](https://github.com/rohan03122001/MSC-PROJECT-MAIN--yjs)
+### [DisCoder]([[https://github.com/rohan03122001/DisCoder](https://github.com/rohan03122001/MSC-PROJECT-MAIN--yjs)])
 Real-time collaborative coding platform with voice chat.
 - **Technologies**: Next.js, React, TypeScript, WebRTC
 - **Features**: Real-time code editing, multi-language code execution, integrated voice chat
@@ -28,11 +28,6 @@ Real-time collaborative coding platform with voice chat.
 An interactive RPG adventure game developed in Unity.
 - **Technologies**: Unity, C#, WebGL
 - **Features**: Engaging gameplay mechanics, 3D environments, character interactions
-
-### [SnippetBox](https://github.com/rohan03122001/SnippetBox)
-A simple web app to manage and share code snippets.
-- **Technologies**: Go, HTML, CSS, JavaScript
-- **Features**: User authentication, snippet creation, and sharing
 
 ### [Blog-Repo-NextJS](https://github.com/rohan03122001/Blog-Repo-NextJS)
 A blog platform built with Next.js.
