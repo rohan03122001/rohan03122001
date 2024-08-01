@@ -19,7 +19,7 @@ Passionate full-stack developer with a love for Next.js, DevOps, and Golang. Cur
 
 ## 📂 Projectsz
 
-### [DisCoder]([[https://github.com/rohan03122001/DisCoder](https://github.com/rohan03122001/MSC-PROJECT-MAIN--yjs)])
+### [DisCoder]([https://github.com/rohan03122001/2D-RPG-Portfolio](https://github.com/rohan03122001/MSC-PROJECT-MAIN--yjs))
 Real-time collaborative coding platform with voice chat.
 - **Technologies**: Next.js, React, TypeScript, WebRTC
 - **Features**: Real-time code editing, multi-language code execution, integrated voice chat
