@@ -1,16 +1,54 @@
-### Hi there 👋
+# Hi there, I'm Rohan Bhujbal 👋
 
-<!--
-**rohan03122001/rohan03122001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=rohan03122001&color=blue)
 
-Here are some ideas to get you started:
+Passionate about crafting robust and efficient backend systems using Go (Golang) and creating engaging web and game experiences. Currently pursuing an M.Sc. in Advanced Computer Science at the University of Birmingham.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌍 Based in Birmingham, UK
+- 📚 Currently a Product Development Intern at GoDiverse Ltd
+- 🎓 Expected M.Sc. graduation in September 2024
+- 💼 Experienced in full-stack development, database optimization, and secure user authentication
+- 🎮 Enjoy building immersive game experiences in Unity
+
+## 🛠️ Technical Skills
+
+- **Languages**: Go, Java, JavaScript, TypeScript, C#, SQL, HTML, CSS
+- **Databases**: Supabase, PocketBase, PostgreSQL
+- **Frameworks & Libraries**: Next.js, React, Node.js, Tailwind CSS, Material UI
+- **Cloud & DevOps**: AWS, Docker, Git
+
+## 📂 Projects
+
+### [DisCoder](https://github.com/rohan03122001/DisCoder)
+Real-time collaborative coding platform with voice chat.
+- **Technologies**: Next.js, React, TypeScript, WebRTC
+- **Features**: Real-time code editing, multi-language code execution, integrated voice chat
+
+### [2D RPG Portfolio](https://github.com/rohan03122001/2D-RPG-Portfolio)
+An interactive RPG adventure game developed in Unity.
+- **Technologies**: Unity, C#, WebGL
+- **Features**: Engaging gameplay mechanics, 3D environments, character interactions
+
+### [SnippetBox](https://github.com/rohan03122001/SnippetBox)
+A simple web app to manage and share code snippets.
+- **Technologies**: Go, HTML, CSS, JavaScript
+- **Features**: User authentication, snippet creation, and sharing
+
+### [Blog-Repo-NextJS](https://github.com/rohan03122001/Blog-Repo-NextJS)
+A blog platform built with Next.js.
+- **Technologies**: Next.js, React, Node.js
+- **Features**: Server-side rendering, SEO optimization, markdown support
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rohan-bhujbal-031574213/)
+- [Personal Website](https://rohanbhujbal.vercel.app/)
+
+## 📫 Contact Me
+
+Feel free to reach out to me at rohanbhujbal2001@gmail.com for any inquiries or collaborations!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohan03122001&show_icons=true&theme=radical)
+
