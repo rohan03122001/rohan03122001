@@ -1,7 +1,5 @@
 # Hi there, I'm Rohan Bhujbal 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohan03122001&color=blue)
-
 Passionate about crafting robust and efficient backend systems using Go (Golang) and creating engaging web and game experiences. Currently pursuing an M.Sc. in Advanced Computer Science at the University of Birmingham.
 
 ## 🚀 About Me
