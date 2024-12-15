@@ -29,11 +29,6 @@ An interactive RPG adventure game developed in Unity.
 - **Technologies**: Unity, C#, WebGL
 - **Features**: Engaging gameplay mechanics, 3D environments, character interactions
 
-### [Blog-Repo-NextJS](https://github.com/rohan03122001/Blog-Repo-NextJS)
-A blog platform built with Next.js.
-- **Technologies**: Next.js, React, Node.js
-- **Features**: Server-side rendering, SEO optimization, markdown support
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rohan-bhujbal-031574213/)
