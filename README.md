@@ -1,5 +1,5 @@
 # Hi there, I'm Rohan Bhujbal 👋
-Passionate full-stack developer with a love for Next.js, DevOps, and Golang. Currently pursuing an M.Sc. in Advanced Computer Science at the University of Birmingham.
+Passionate full-stack developer with a love for Golang, DevOps, and Next.js Currently pursuing an M.Sc. in Advanced Computer Science at the University of Birmingham.
 ## 🚀 About Me
 - 🌍 Based in Birmingham, UK
 - 📚 Currently a Product Development Intern at GoDiverse Ltd
@@ -8,9 +8,9 @@ Passionate full-stack developer with a love for Next.js, DevOps, and Golang. Cur
 - 🎮 Enjoy building immersive game experiences in Unity
 ## 🛠️ Technical Skills
 - **Languages**: Go, Java, JavaScript, TypeScript, C#, SQL, HTML, CSS
-- **Databases**: Supabase, PocketBase, PostgreSQL
-- **Frameworks & Libraries**: Next.js, React, Node.js, Tailwind CSS, Material UI
-- **Cloud & DevOps**: AWS, Docker, Git
+- **Databases**: PostgreSQL, Supabase, MySQL
+- **Frameworks & Libraries**: Gin, Next.js, React, Node.js, Tailwind CSS, Material UI
+- **Cloud & DevOps**: AWS, Docker, Git, Terraform, Ansible
 ## 📂 Projects
 ### [DisCoder](https://github.com/rohan03122001/MSC-PROJECT-MAIN--yjs)
 Real-time collaborative coding platform with voice chat.
