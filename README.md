@@ -1,9 +1,9 @@
 # Hi there, I'm Rohan Bhujbal 👋
-Passionate full-stack developer with a love for Golang, DevOps, and Next.js Currently pursuing an M.Sc. in Advanced Computer Science at the University of Birmingham.
+Passionate full-stack developer with a love for Building Scalable Applications,
 ## 🚀 About Me
 - 🌍 Based in Birmingham, UK
-- 📚 Currently a Product Development Intern at GoDiverse Ltd
-- 🎓 Expected M.Sc. graduation in September 2024
+- 📚 Currently a Backend Developer Intern at Peekabox
+- 🎓 M.Sc. Advanced Computer Science Graduate from University of Birmingham
 - 💼 Experienced in full-stack development, database optimization, and secure user authentication
 - 🎮 Enjoy building immersive game experiences in Unity
 ## 🛠️ Technical Skills
